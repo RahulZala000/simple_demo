@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simple_demo</string>
+    <string name="info">First Demo App For Git"</string>
+</resources>
